@@ -1,4 +1,7 @@
 # Microbog
+v0.4 This update adds database functionality to the microblog program
+using Flask-SQLAlchemy and Flask-Migrate
+
 v0.3 This update takes the micro blog template from v0.2 and adds a log
 in feature and adds the "/login" route and added secret word protection.
 
