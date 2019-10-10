@@ -1,4 +1,7 @@
 # Microbog
+v.05 This update adds log in and registration functionality to the microblog 
+program using Flask-Login
+
 v0.4 This update adds database functionality to the microblog program
 using Flask-SQLAlchemy and Flask-Migrate
 
